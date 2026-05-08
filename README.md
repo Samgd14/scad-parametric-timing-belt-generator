@@ -1,7 +1,7 @@
 # scad-parametric-timing-belt-generator
 Generates STL or DXF files for a wide variety of timing belts
 
-This is primarily based on https://www.youmagine.com/designs/parametric-timing-belt-generator but adds support for generating a 2d profile you export as a DXF or a 3d STL for directy printing or using in your model.
+This is primarily based on https://github.com/cmlarsen/scad-parametric-timing-belt-generator/tree/main, with better exposed parameters.
 
 
 ## Belt Profiles Supported:
